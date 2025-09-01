@@ -8,23 +8,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  All of my cool data visualizations will be located here. Feel free to take a look!  
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi there!  I am a 2nd year masters student at Carnegie Mellon's Heinz College studying Public Policy and Management. I have made this site as part of my telling stories with data course, which I chose to take because I believe presenting data in a clean and effective manner is extremely important! 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to organize my thoughts when making a data visualization. Sometimes I have to deal with large, complex data sets that can be confusing to read. Having a strong thought process can help narrow down what I want out of my visualizations.  
+2. How to find beauty in simplicity. Oftentimes I have been tasked by an employeer to make a data visualization that is very short and sweet. I want to get better at making graphic simple, but very effective! 
+3. How to make my data visualizations carry a lot of meaning behind them. There have been times where I make a data visualization and it truly doesn't make the impact that I want it to make on a viewer. I want to discover ways to improve on this!
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I want to work with data analysis in the future, so being able to learn these 3 things will serve me well in the future! 
 
 # Portfolio
 
