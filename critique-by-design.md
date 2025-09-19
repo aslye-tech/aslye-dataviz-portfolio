@@ -87,6 +87,8 @@ Original Data Viz and Data Table here: https://www.visualcapitalist.com/ranked-2
 
 Makeover Monday: https://makeovermonday.co.uk/
 
+Youtube video on creating slicers: https://www.youtube.com/watch?v=V8dDQswPBTw&t=34s
+
 ## AI acknowledgements
 
 I did not use any AI throughout this assignment
