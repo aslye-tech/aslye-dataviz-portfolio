@@ -1,6 +1,5 @@
 # Part 1
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+# Outline 
  
 Baltimore is known for it's fantastic history, great food, and rich sports culture. However, Baltimore Public Schools have not been so nice in recent years. 
 In a study conducted by the National Assessment of Educational Progress in 2022, only 7% of Baltimore City Public School students performed at or above the 
@@ -16,15 +15,13 @@ the audience some sort of way to attack this. I will propose some bills that are
 impact learning for Baltimore Public School students such as improvements to building facilities and an investment in more opportunities to learn and grow 
 throug directed tutoring and programs geared towards literacy and math scores. 
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial sketches  
 
 !["C:\Users\Austs\Downloads\IMG_7848.jpg"]
 
 !["C:\Users\Austs\Downloads\IMG_7846.jpg"]
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 I am using 2 key data sets for this story: The NAEP Nations Report Card and Crime Stats from the Baltimore Police Department (links in table down below). The NAEP Nations Report Card, highlights some key statistics regarding academic performance across school systems across the US. This report usually happens every 2 years and highlights scores such as average reading, math, science, and writing. For my case, I will be looking at the national average in math and reading in the US, and compare it to the average scores in Baltimore City. The grades that are looked into for these scores are 4th grade and 8th grade. For the sake of this story, I will focus on the 4th grade reports.
 The Baltimore Police Department releases statistics on all things crime related in the city of Baltimore. They often use very cool designs using ArcGIS to display the type of crime, when, and where. I will use this to specifically look at homicide rates in Baltimore, Maryland. I want to utilize this report in the setup phase of my story to give the audience some sort of positive hope. For a very long time, Baltimore has been known as a place with very bad crime or homice rates and in recent years these numbers have dropped in a good way. I want to show the reader that the city can improve and change for the better!
