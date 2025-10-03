@@ -6,7 +6,6 @@ https://preview.shorthand.com/3A2A8Vp4jHB2ZIGs
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 My target audience are administrators and other members of the Baltimore Public Education System.  I want to target this audience specifically becuase they are in a place to actually make a difference on this approach. Originally, I was debating discussing this to local parents. However, I opted not to do this, as I figured presenting this to administrators that are directly involved in Baltimore Public Education might change some things up. I got 2 of my interviews from class, but I wanted to get one from someone that understands the situation in Baltimore a bit more. Therefore, I decided to interview my father, who has grown up around the Baltimore area and has coached many kids in football from Baltimore. His experience with some of the kids is very valuable and would help me a lot in creating a better narrative for the audience. My hope is to inspire some sort of change in Baltimore Public Schools regarding our approach to students. Really investing into not just them as students, but to them as people will spark a lot of positive growth among students.
 
@@ -22,7 +21,6 @@ The biggest goal I want to conduct from my research is the overall flow and unde
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 I gathered some great insight regarding story flow from my interviews, including things that I did not think about addressing! What I loved was that the responses were geared towards creating a bit more power in the overall message of the story. I discovered that there is a bit more to the story than simply throwing more money into  schools and hoping they get better. Going into detail about how these kids can improve and understanding more of their personal background is very crucial to the success of a student. Below are findings from my interviews...
 
@@ -55,5 +53,5 @@ In conclusion, I definitely have some more work to do! Bringing in more data to 
 ‌Papst, Chris. “At 13 Baltimore City High Schools, Zero Students Tested Proficient on 2023 State Math Exam.” WBFF, 18 Sept. 2023, foxbaltimore.com/news/project-baltimore/at-13-baltimore-city-high-schools-zero-students-tested-proficient-on-2023-state-math-exam.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI in this assignment.
 
