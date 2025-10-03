@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-| [Shorthand](https://preview.shorthand.com/3A2A8Vp4jHB2ZIGs |
+https://preview.shorthand.com/3A2A8Vp4jHB2ZIGs
 
 # User research 
 
@@ -52,7 +52,7 @@ In conclusion, I definitely have some more work to do! Bringing in more data to 
 
 “Baltimore City Homicides.” The Baltimore Sun, 2 Oct. 2025, homicides.news.baltimoresun.com/?range=2024&age=all.
 
-‌
+‌Papst, Chris. “At 13 Baltimore City High Schools, Zero Students Tested Proficient on 2023 State Math Exam.” WBFF, 18 Sept. 2023, foxbaltimore.com/news/project-baltimore/at-13-baltimore-city-high-schools-zero-students-tested-proficient-on-2023-state-math-exam.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
